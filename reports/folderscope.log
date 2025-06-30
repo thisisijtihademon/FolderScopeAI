@@ -1,0 +1,226 @@
+2025-06-29 13:03:26,011 - Analysis started
+2025-06-29 13:03:26,421 - Scanned folder: D:\ProjectProtfolio
+2025-06-29 13:03:26,906 - Deep + security analyzed code file: index.html
+2025-06-29 13:03:27,357 - Deep + security analyzed code file: postcss.config.js
+2025-06-29 13:03:27,813 - Deep + security analyzed code file: tailwind.config.js
+2025-06-29 13:03:27,881 - Advanced NLP analyzed text file: robots.txt
+2025-06-29 13:03:27,919 - Analyzed image file: no_image.png
+2025-06-29 13:03:28,418 - Deep + security analyzed code file: index.css
+2025-06-29 13:03:28,937 - Deep + security analyzed code file: tailwind.css
+2025-06-29 13:03:28,937 - Markdown report generated
+2025-06-29 13:03:30,030 - Reading 'maxp' table from disk
+2025-06-29 13:03:30,035 - Decompiling 'maxp' table
+2025-06-29 13:03:30,035 - Took 0.005s to load 'maxp'
+2025-06-29 13:03:30,035 - Took 0.000s to prune 'maxp'
+2025-06-29 13:03:30,035 - maxp pruned
+2025-06-29 13:03:30,039 - Reading 'cmap' table from disk
+2025-06-29 13:03:30,039 - Decompiling 'cmap' table
+2025-06-29 13:03:30,039 - Reading 'post' table from disk
+2025-06-29 13:03:30,039 - Decompiling 'post' table
+2025-06-29 13:03:30,041 - Took 0.003s to load 'cmap'
+2025-06-29 13:03:30,043 - Took 0.000s to prune 'cmap'
+2025-06-29 13:03:30,043 - cmap pruned
+2025-06-29 13:03:30,043 - fpgm dropped
+2025-06-29 13:03:30,043 - prep dropped
+2025-06-29 13:03:30,043 - cvt  dropped
+2025-06-29 13:03:30,043 - Took 0.000s to load 'post'
+2025-06-29 13:03:30,043 - Took 0.000s to prune 'post'
+2025-06-29 13:03:30,043 - post pruned
+2025-06-29 13:03:30,043 - cvar dropped
+2025-06-29 13:03:30,043 - DSIG dropped
+2025-06-29 13:03:30,043 - GPOS dropped
+2025-06-29 13:03:30,043 - GSUB dropped
+2025-06-29 13:03:30,043 - Reading 'gvar' table from disk
+2025-06-29 13:03:30,043 - Decompiling 'gvar' table
+2025-06-29 13:03:30,043 - Reading 'fvar' table from disk
+2025-06-29 13:03:30,043 - Decompiling 'fvar' table
+2025-06-29 13:03:30,043 - Reading 'glyf' table from disk
+2025-06-29 13:03:30,043 - Decompiling 'glyf' table
+2025-06-29 13:03:30,043 - Reading 'loca' table from disk
+2025-06-29 13:03:30,043 - Decompiling 'loca' table
+2025-06-29 13:03:30,043 - Reading 'head' table from disk
+2025-06-29 13:03:30,043 - Decompiling 'head' table
+2025-06-29 13:03:30,049 - Took 0.003s to load 'gvar'
+2025-06-29 13:03:30,049 - Took 0.000s to prune 'gvar'
+2025-06-29 13:03:30,049 - gvar pruned
+2025-06-29 13:03:30,049 - Took 0.000s to load 'glyf'
+2025-06-29 13:03:30,051 - Took 0.000s to prune 'glyf'
+2025-06-29 13:03:30,051 - glyf pruned
+2025-06-29 13:03:30,051 - Took 0.000s to close glyph list over 'cmap'
+2025-06-29 13:03:30,051 - Added gid0 to subset
+2025-06-29 13:03:30,051 - Closing glyph list over 'glyf': 45 glyphs before
+2025-06-29 13:03:30,051 - Glyph names: ['.notdef', 'A', 'B', 'C', 'D', 'E', 'F', 'H', 'I', 'M', 'N', 'P', 'R', 'S', 'T', 'V', 'W', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'hyphen', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'period', 'r', 's', 'space', 't', 'u', 'underscore', 'v', 'w', 'x', 'y']
+2025-06-29 13:03:30,051 - Glyph IDs:   [0, 1, 29, 30, 37, 41, 63, 71, 76, 108, 109, 146, 149, 154, 163, 190, 194, 222, 249, 250, 256, 260, 283, 284, 294, 299, 313, 318, 323, 335, 336, 345, 374, 377, 382, 391, 397, 417, 420, 425, 426, 734, 765, 772, 861]
+2025-06-29 13:03:30,051 - Closed glyph list over 'glyf': 46 glyphs after
+2025-06-29 13:03:30,051 - Glyph names: ['.notdef', 'A', 'B', 'C', 'D', 'E', 'F', 'H', 'I', 'M', 'N', 'P', 'R', 'S', 'T', 'V', 'W', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'hyphen', 'i', 'j', 'k', 'l', 'm', 'minus', 'n', 'o', 'p', 'period', 'r', 's', 'space', 't', 'u', 'underscore', 'v', 'w', 'x', 'y']
+2025-06-29 13:03:30,051 - Glyph IDs:   [0, 1, 29, 30, 37, 41, 63, 71, 76, 108, 109, 146, 149, 154, 163, 190, 194, 222, 249, 250, 256, 260, 283, 284, 294, 299, 313, 318, 323, 335, 336, 345, 374, 377, 382, 391, 397, 417, 420, 425, 426, 734, 765, 772, 861, 904]
+2025-06-29 13:03:30,051 - Took 0.001s to close glyph list over 'glyf'
+2025-06-29 13:03:30,053 - Retaining 46 glyphs
+2025-06-29 13:03:30,053 - head subsetting not needed
+2025-06-29 13:03:30,053 - hhea subsetting not needed
+2025-06-29 13:03:30,053 - maxp subsetting not needed
+2025-06-29 13:03:30,053 - OS/2 subsetting not needed
+2025-06-29 13:03:30,053 - Reading 'hmtx' table from disk
+2025-06-29 13:03:30,053 - Decompiling 'hmtx' table
+2025-06-29 13:03:30,053 - Reading 'hhea' table from disk
+2025-06-29 13:03:30,053 - Decompiling 'hhea' table
+2025-06-29 13:03:30,055 - Took 0.002s to subset 'hmtx'
+2025-06-29 13:03:30,055 - hmtx subsetted
+2025-06-29 13:03:30,055 - Took 0.000s to subset 'cmap'
+2025-06-29 13:03:30,055 - cmap subsetted
+2025-06-29 13:03:30,055 - loca subsetting not needed
+2025-06-29 13:03:30,055 - Took 0.000s to subset 'post'
+2025-06-29 13:03:30,055 - post subsetted
+2025-06-29 13:03:30,055 - gasp subsetting not needed
+2025-06-29 13:03:30,055 - Reading 'HVAR' table from disk
+2025-06-29 13:03:30,055 - Decompiling 'HVAR' table
+2025-06-29 13:03:30,055 - Took 0.005s to subset 'HVAR'
+2025-06-29 13:03:30,055 - HVAR subsetted
+2025-06-29 13:03:30,055 - STAT subsetting not needed
+2025-06-29 13:03:30,055 - Reading 'GDEF' table from disk
+2025-06-29 13:03:30,055 - Decompiling 'GDEF' table
+2025-06-29 13:03:30,055 - Took 0.001s to subset 'GDEF'
+2025-06-29 13:03:30,055 - GDEF subsetted
+2025-06-29 13:03:30,055 - fvar subsetting not needed
+2025-06-29 13:03:30,055 - avar subsetting not needed
+2025-06-29 13:03:30,055 - Took 0.004s to subset 'gvar'
+2025-06-29 13:03:30,055 - gvar subsetted
+2025-06-29 13:03:30,055 - name subsetting not needed
+2025-06-29 13:03:30,055 - Took 0.001s to subset 'glyf'
+2025-06-29 13:03:30,055 - glyf subsetted
+2025-06-29 13:03:30,055 - Took 0.000s to subset GlyphOrder
+2025-06-29 13:03:30,055 - Took 0.000s to prune 'head'
+2025-06-29 13:03:30,055 - head pruned
+2025-06-29 13:03:30,055 - Reading 'OS/2' table from disk
+2025-06-29 13:03:30,055 - Decompiling 'OS/2' table
+2025-06-29 13:03:30,055 - OS/2 Unicode ranges pruned: [0]
+2025-06-29 13:03:30,055 - OS/2 CodePage ranges pruned: [0]
+2025-06-29 13:03:30,071 - Took 0.000s to prune 'glyf'
+2025-06-29 13:03:30,071 - glyf pruned
+2025-06-29 13:03:30,071 - Took 0.000s to prune 'GDEF'
+2025-06-29 13:03:30,071 - GDEF pruned
+2025-06-29 13:03:30,071 - Reading 'name' table from disk
+2025-06-29 13:03:30,071 - Decompiling 'name' table
+2025-06-29 13:03:30,071 - Reading 'gasp' table from disk
+2025-06-29 13:03:30,071 - Decompiling 'gasp' table
+2025-06-29 13:03:30,071 - Reading 'STAT' table from disk
+2025-06-29 13:03:30,071 - Decompiling 'STAT' table
+2025-06-29 13:03:30,071 - Reading 'avar' table from disk
+2025-06-29 13:03:30,071 - Decompiling 'avar' table
+2025-06-29 13:03:30,071 - Took 0.002s to prune 'name'
+2025-06-29 13:03:30,071 - name pruned
+2025-06-29 13:03:30,088 - Normalized location: {'wght': 1.0}
+2025-06-29 13:03:30,088 - Mutating glyf/gvar tables
+2025-06-29 13:03:30,135 - Mutating FeatureVariations
+2025-06-29 13:03:30,135 - Pruning name table
+2025-06-29 13:03:30,135 - Removing variable tables
+2025-06-29 13:03:30,135 - Reading 'maxp' table from disk
+2025-06-29 13:03:30,135 - Decompiling 'maxp' table
+2025-06-29 13:03:30,135 - Took 0.000s to load 'maxp'
+2025-06-29 13:03:30,135 - Took 0.000s to prune 'maxp'
+2025-06-29 13:03:30,135 - maxp pruned
+2025-06-29 13:03:30,135 - Reading 'cmap' table from disk
+2025-06-29 13:03:30,135 - Decompiling 'cmap' table
+2025-06-29 13:03:30,135 - Reading 'post' table from disk
+2025-06-29 13:03:30,135 - Decompiling 'post' table
+2025-06-29 13:03:30,151 - Took 0.005s to load 'cmap'
+2025-06-29 13:03:30,151 - Took 0.000s to prune 'cmap'
+2025-06-29 13:03:30,151 - cmap pruned
+2025-06-29 13:03:30,151 - fpgm dropped
+2025-06-29 13:03:30,151 - prep dropped
+2025-06-29 13:03:30,151 - cvt  dropped
+2025-06-29 13:03:30,151 - Took 0.000s to load 'post'
+2025-06-29 13:03:30,151 - Took 0.000s to prune 'post'
+2025-06-29 13:03:30,151 - post pruned
+2025-06-29 13:03:30,151 - cvar dropped
+2025-06-29 13:03:30,151 - DSIG dropped
+2025-06-29 13:03:30,151 - GPOS dropped
+2025-06-29 13:03:30,151 - GSUB dropped
+2025-06-29 13:03:30,151 - Reading 'gvar' table from disk
+2025-06-29 13:03:30,151 - Decompiling 'gvar' table
+2025-06-29 13:03:30,151 - Reading 'fvar' table from disk
+2025-06-29 13:03:30,151 - Decompiling 'fvar' table
+2025-06-29 13:03:30,151 - Reading 'glyf' table from disk
+2025-06-29 13:03:30,151 - Decompiling 'glyf' table
+2025-06-29 13:03:30,151 - Reading 'loca' table from disk
+2025-06-29 13:03:30,151 - Decompiling 'loca' table
+2025-06-29 13:03:30,151 - Reading 'head' table from disk
+2025-06-29 13:03:30,151 - Decompiling 'head' table
+2025-06-29 13:03:30,151 - Took 0.006s to load 'gvar'
+2025-06-29 13:03:30,151 - Took 0.000s to prune 'gvar'
+2025-06-29 13:03:30,151 - gvar pruned
+2025-06-29 13:03:30,151 - Took 0.000s to load 'glyf'
+2025-06-29 13:03:30,151 - Took 0.000s to prune 'glyf'
+2025-06-29 13:03:30,151 - glyf pruned
+2025-06-29 13:03:30,151 - Took 0.000s to close glyph list over 'cmap'
+2025-06-29 13:03:30,151 - Added gid0 to subset
+2025-06-29 13:03:30,151 - Closing glyph list over 'glyf': 70 glyphs before
+2025-06-29 13:03:30,151 - Glyph names: ['.notdef', 'A', 'B', 'C', 'D', 'E', 'F', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'P', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'a', 'b', 'backslash', 'braceleft', 'braceright', 'bullet', 'c', 'colon', 'comma', 'd', 'e', 'eight', 'f', 'five', 'four', 'g', 'h', 'hyphen', 'i', 'j', 'k', 'l', 'm', 'n', 'nine', 'o', 'one', 'openbullet', 'p', 'period', 'quotesingle', 'r', 's', 'seven', 'six', 'slash', 'space', 't', 'three', 'two', 'u', 'underscore', 'v', 'w', 'x', 'y', 'z', 'zero']
+2025-06-29 13:03:30,151 - Glyph IDs:   [0, 1, 29, 30, 37, 41, 63, 71, 76, 90, 93, 98, 108, 109, 146, 149, 154, 163, 170, 190, 194, 199, 222, 249, 250, 256, 260, 283, 284, 294, 299, 313, 318, 323, 335, 336, 345, 374, 377, 382, 391, 397, 417, 420, 425, 426, 435, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 734, 735, 736, 744, 750, 751, 755, 756, 765, 772, 786, 861, 996]
+2025-06-29 13:03:30,151 - Closed glyph list over 'glyf': 71 glyphs after
+2025-06-29 13:03:30,151 - Glyph names: ['.notdef', 'A', 'B', 'C', 'D', 'E', 'F', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'P', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'a', 'b', 'backslash', 'braceleft', 'braceright', 'bullet', 'c', 'colon', 'comma', 'd', 'e', 'eight', 'f', 'five', 'four', 'g', 'h', 'hyphen', 'i', 'j', 'k', 'l', 'm', 'minus', 'n', 'nine', 'o', 'one', 'openbullet', 'p', 'period', 'quotesingle', 'r', 's', 'seven', 'six', 'slash', 'space', 't', 'three', 'two', 'u', 'underscore', 'v', 'w', 'x', 'y', 'z', 'zero']
+2025-06-29 13:03:30,151 - Glyph IDs:   [0, 1, 29, 30, 37, 41, 63, 71, 76, 90, 93, 98, 108, 109, 146, 149, 154, 163, 170, 190, 194, 199, 222, 249, 250, 256, 260, 283, 284, 294, 299, 313, 318, 323, 335, 336, 345, 374, 377, 382, 391, 397, 417, 420, 425, 426, 435, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 734, 735, 736, 744, 750, 751, 755, 756, 765, 772, 786, 861, 904, 996]
+2025-06-29 13:03:30,151 - Took 0.002s to close glyph list over 'glyf'
+2025-06-29 13:03:30,166 - Retaining 71 glyphs
+2025-06-29 13:03:30,166 - head subsetting not needed
+2025-06-29 13:03:30,166 - hhea subsetting not needed
+2025-06-29 13:03:30,166 - maxp subsetting not needed
+2025-06-29 13:03:30,166 - OS/2 subsetting not needed
+2025-06-29 13:03:30,166 - Reading 'hmtx' table from disk
+2025-06-29 13:03:30,166 - Decompiling 'hmtx' table
+2025-06-29 13:03:30,166 - Reading 'hhea' table from disk
+2025-06-29 13:03:30,166 - Decompiling 'hhea' table
+2025-06-29 13:03:30,166 - Took 0.001s to subset 'hmtx'
+2025-06-29 13:03:30,166 - hmtx subsetted
+2025-06-29 13:03:30,166 - Took 0.000s to subset 'cmap'
+2025-06-29 13:03:30,166 - cmap subsetted
+2025-06-29 13:03:30,166 - loca subsetting not needed
+2025-06-29 13:03:30,166 - Took 0.000s to subset 'post'
+2025-06-29 13:03:30,166 - post subsetted
+2025-06-29 13:03:30,166 - gasp subsetting not needed
+2025-06-29 13:03:30,166 - Reading 'HVAR' table from disk
+2025-06-29 13:03:30,166 - Decompiling 'HVAR' table
+2025-06-29 13:03:30,166 - Took 0.006s to subset 'HVAR'
+2025-06-29 13:03:30,166 - HVAR subsetted
+2025-06-29 13:03:30,166 - STAT subsetting not needed
+2025-06-29 13:03:30,166 - Reading 'GDEF' table from disk
+2025-06-29 13:03:30,166 - Decompiling 'GDEF' table
+2025-06-29 13:03:30,166 - Took 0.001s to subset 'GDEF'
+2025-06-29 13:03:30,166 - GDEF subsetted
+2025-06-29 13:03:30,166 - fvar subsetting not needed
+2025-06-29 13:03:30,166 - avar subsetting not needed
+2025-06-29 13:03:30,181 - Took 0.008s to subset 'gvar'
+2025-06-29 13:03:30,181 - gvar subsetted
+2025-06-29 13:03:30,181 - name subsetting not needed
+2025-06-29 13:03:30,181 - Took 0.001s to subset 'glyf'
+2025-06-29 13:03:30,181 - glyf subsetted
+2025-06-29 13:03:30,181 - Took 0.000s to subset GlyphOrder
+2025-06-29 13:03:30,181 - Took 0.000s to prune 'head'
+2025-06-29 13:03:30,181 - head pruned
+2025-06-29 13:03:30,181 - Reading 'OS/2' table from disk
+2025-06-29 13:03:30,181 - Decompiling 'OS/2' table
+2025-06-29 13:03:30,181 - OS/2 Unicode ranges pruned: [0, 31, 45]
+2025-06-29 13:03:30,181 - OS/2 CodePage ranges pruned: [0]
+2025-06-29 13:03:30,181 - Took 0.000s to prune 'glyf'
+2025-06-29 13:03:30,181 - glyf pruned
+2025-06-29 13:03:30,181 - Took 0.000s to prune 'GDEF'
+2025-06-29 13:03:30,181 - GDEF pruned
+2025-06-29 13:03:30,181 - Reading 'name' table from disk
+2025-06-29 13:03:30,181 - Decompiling 'name' table
+2025-06-29 13:03:30,181 - Reading 'gasp' table from disk
+2025-06-29 13:03:30,181 - Decompiling 'gasp' table
+2025-06-29 13:03:30,181 - Reading 'STAT' table from disk
+2025-06-29 13:03:30,181 - Decompiling 'STAT' table
+2025-06-29 13:03:30,181 - Reading 'avar' table from disk
+2025-06-29 13:03:30,181 - Decompiling 'avar' table
+2025-06-29 13:03:30,181 - Took 0.002s to prune 'name'
+2025-06-29 13:03:30,181 - name pruned
+2025-06-29 13:03:30,213 - Normalized location: {'wght': 0.0}
+2025-06-29 13:03:30,213 - Mutating glyf/gvar tables
+2025-06-29 13:03:30,245 - Mutating FeatureVariations
+2025-06-29 13:03:30,245 - Pruning name table
+2025-06-29 13:03:30,245 - Removing variable tables
+2025-06-29 13:03:30,307 - HTML report generated
+2025-06-29 13:03:30,309 - CSV export generated
+2025-06-29 13:03:30,350 - Reports zipped
+2025-06-29 13:03:30,350 - Analysis completed
