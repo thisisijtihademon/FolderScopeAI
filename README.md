@@ -172,7 +172,7 @@ python -m spacy download en_core_web_sm
 - Optional `.zip` backup of the scanned folder
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/thisisijtihademon/FolderScopeAI?style=social" alt="Stars">0
+  <img src="https://img.shields.io/github/stars/thisisijtihademon/FolderScopeAI?style=social" alt="Stars">
   <img src="https://img.shields.io/github/forks/thisisijtihademon/FolderScopeAI?style=social" alt="Forks">
   <img src="https://img.shields.io/github/watchers/thisisijtihademon/FolderScopeAI?style=social" alt="Watchers">
   <img src="https://img.shields.io/github/languages/top/thisisijtihademon/FolderScopeAI" alt="Top Language">
