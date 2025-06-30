@@ -171,6 +171,15 @@ python -m spacy download en_core_web_sm
 - CSVs with structured results
 - Optional `.zip` backup of the scanned folder
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/thisisijtihademon/FolderScopeAI?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/thisisijtihademon/FolderScopeAI?style=social" alt="Forks">
+  <img src="https://img.shields.io/github/watchers/thisisijtihademon/FolderScopeAI?style=social" alt="Watchers">
+  <img src="https://img.shields.io/github/languages/top/thisisijtihademon/FolderScopeAI" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/thisisijtihademon/FolderScopeAI" alt="Last Commit">
+</p>
+
+
 ## 💬 Author
 Made with ❤️ by Ijtihad Emon — AI-assisted, precision-delivered.
 
